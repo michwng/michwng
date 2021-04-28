@@ -1,3 +1,5 @@
+"The Dungeon of Despair" Game for my Semester Project from my CSCI1250 class.
+
 This project was created solely by Michael Ng.
 This project was created using about ~3 weeks worth of hard coding and research.
 A person may need 15-30 minutes to complete the storyline of the game.
