@@ -3,3 +3,5 @@ Hello, I’m @michwng!
 - I know intermediate Java and Web Development.
 - I am currently learning more on Web Development.
 
+- I'm working towards my Bachelor's Degree in the Computing Major (IT Concentration) at ETSU!
+- My favorite hobby is playing my violin!
