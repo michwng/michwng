@@ -1,6 +1,5 @@
 Hello, I’m @michwng!
-- I am interested in Java coding and Web Development here on GitHub.
-- I am familiar with Java, Web Development, and C#.
+- I am familiar with Java, HTML/CSS, C#, .NET, SQL, SQLite, C++, and Python.
 
-- I'm working towards my Bachelor's Degree in the Computing Major (IT Concentration) at ETSU!
-- My favorite hobby is playing my violin!
+- I am a Graduate of East Tennessee State University.
+- I took their Computing Major (IT Concentration) and graduated on December 16, 2023.
